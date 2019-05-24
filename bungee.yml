@@ -1,0 +1,5 @@
+name: BungeeFunnyGuildsAPI
+main: demonek.BungeeFunnyGuildsAPI.BungeeFunnyGuildsAPI
+version: 0.1
+authors: [DeMoNeK_, Dzikoysk]
+description: Plug-in wprowadza API dla BungeeCorda. Wykorzystuje przy tym szkielet plug-inu FunnyGuilds.
